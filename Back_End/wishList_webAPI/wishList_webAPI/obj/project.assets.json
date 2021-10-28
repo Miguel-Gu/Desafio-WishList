@@ -7535,11 +7535,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinicius\\source\\repos\\wishList_webAPI\\wishList_webAPI\\wishList_webAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Vinicius\\Desktop\\Desafio-WishList\\Back_End\\wishList_webAPI\\wishList_webAPI\\wishList_webAPI.csproj",
       "projectName": "wishList_webAPI",
-      "projectPath": "C:\\Users\\Vinicius\\source\\repos\\wishList_webAPI\\wishList_webAPI\\wishList_webAPI.csproj",
+      "projectPath": "C:\\Users\\Vinicius\\Desktop\\Desafio-WishList\\Back_End\\wishList_webAPI\\wishList_webAPI\\wishList_webAPI.csproj",
       "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinicius\\source\\repos\\wishList_webAPI\\wishList_webAPI\\obj\\",
+      "outputPath": "C:\\Users\\Vinicius\\Desktop\\Desafio-WishList\\Back_End\\wishList_webAPI\\wishList_webAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
