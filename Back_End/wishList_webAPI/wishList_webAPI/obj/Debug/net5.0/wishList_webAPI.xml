@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>wishList_webAPI</name>
+    </assembly>
+    <members>
+        <member name="T:wishList_webAPI.Interfaces.IDesejoRepository">
+            <summary>
+            Interfaces com os métodos Cadastar e Listar
+            </summary>
+        </member>
+        <member name="M:wishList_webAPI.Interfaces.IDesejoRepository.Cadastrar(wishList_webAPI.Domains.Desejo)">
+            <summary>
+            Cadastra um novo desejo
+            </summary>
+            <param name="novoDesejo">Novo desejo que será cadastrado</param>
+        </member>
+        <member name="M:wishList_webAPI.Interfaces.IDesejoRepository.ListarDesejos">
+            <summary>
+            lista um lista de desejos
+            </summary>
+            <returns>Uma lista de desejos</returns>
+        </member>
+    </members>
+</doc>

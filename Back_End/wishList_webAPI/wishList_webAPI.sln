@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wishList_webAPI", "wishList_webAPI\wishList_webAPI.csproj", "{FDB4DE3E-5722-41D7-AB7B-6119D61D93F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDB4DE3E-5722-41D7-AB7B-6119D61D93F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB4DE3E-5722-41D7-AB7B-6119D61D93F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB4DE3E-5722-41D7-AB7B-6119D61D93F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB4DE3E-5722-41D7-AB7B-6119D61D93F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C826CCC5-3DCC-4AE8-951A-B3FD7F53EC9F}
+	EndGlobalSection
+EndGlobal
