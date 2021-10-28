@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ggXuW2pNXyLXgGoQA+iMqwQewL0kxu5IZDfvjk/n2bueC0p+uZwRLeUqxzLRyf0LS3j4ag97yH4Hpfw2CSJEWw==",
+  "dgSpecHash": "SBfXswTWNlcSJt10ePRe8qsGDhep3ha6NdNIFsblbIoO8MXC7V3USAj/rb7hv68+uprHgwnb0JHmtP0hYwbjuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vinicius\\source\\repos\\wishList_webAPI\\wishList_webAPI\\wishList_webAPI.csproj",
+  "projectFilePath": "C:\\Users\\Vinicius\\Desktop\\Desafio-WishList\\Back_End\\wishList_webAPI\\wishList_webAPI\\wishList_webAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vinicius\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Vinicius\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.11\\microsoft.aspnetcore.jsonpatch.5.0.11.nupkg.sha512",

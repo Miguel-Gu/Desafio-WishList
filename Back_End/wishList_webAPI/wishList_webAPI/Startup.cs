@@ -16,7 +16,7 @@ namespace wishList_webAPI
 {
     public class Startup
     {
-        // This method gets called by the runtime. Use this method to add services to the container.
+        // This method gets called by the runtime. Use this method to add services to tdhe container.
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
@@ -43,7 +43,16 @@ namespace wishList_webAPI
 
             });
 
-
+            services.AddCors(options =>
+            {
+                options.AddPolicy("CorsPolicy",
+                                builder =>
+                                {
+                                    builder.WithOrigins("http://localhost:3000")
+                                    .AllowAnyHeader()
+                                    .AllowAnyMethod();
+                                });
+            });
 
         }
 
@@ -56,6 +65,8 @@ namespace wishList_webAPI
             }
 
             app.UseRouting();
+
+            app.UseCors("CorsPolicy");
 
             app.UseSwagger();
 
